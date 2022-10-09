@@ -1,28 +1,31 @@
-.header{
+.header {
     position: relative;
 }
-.group9{
+
+.group9 {
     position: relative;
     width: 1366px;
     height: 662px;
 }
-.zetta{
-position: absolute;
-font-size: 14px;
-font-family: Poppins;
-font-weight: bold;
-color: white;
-bottom: 635px;
-left: 150px;
-}
-nav ul{
-    position: absolute;  
-    bottom: 640px;
-    left: 640px;
-    top: 1px;  
+
+.zetta {
+    position: absolute;
+    font-size: 14px;
+    font-family: Poppins;
+    font-weight: bold;
+    color: white;
+    bottom: 635px;
+    left: 150px;
 }
 
-ul li{
+nav ul {
+    position: absolute;
+    bottom: 640px;
+    left: 640px;
+    top: 1px;
+}
+
+ul li {
     display: inline-block;
     color: white;
     padding: 30px;
@@ -31,7 +34,7 @@ ul li{
     font-style: normal;
 }
 
-.thebest{
+.thebest {
     position: absolute;
     width: 576px;
     height: 160px;
@@ -43,7 +46,8 @@ ul li{
     font-weight: bolder;
     line-height: 90px;
 }
-.lorem{
+
+.lorem {
     position: absolute;
     width: 352px;
     height: 64px;
@@ -54,7 +58,8 @@ ul li{
     line-height: 25px;
     font-weight: normal;
 }
-.sicky{
+
+.sicky {
     position: absolute;
     width: 122px;
     height: 28px;
@@ -65,3 +70,58 @@ ul li{
     left: 150px;
 }
 
+.container {
+    display: inline-block;
+    width: 1366px;
+    height: 1559px;
+}
+
+.pbox {
+    display: inline-block;
+}
+
+.trust {
+
+    width: 374px;
+    font-size: 42px;
+    font-family: Poppins;
+    font-weight: bold;
+    margin-top: 70px;
+    margin-left: 150px;
+    line-height: 50px;
+}
+
+.ipsum {
+
+    width: 444px;
+    height: 78px;
+    margin-top: 20px;
+    margin-left: 150px;
+    line-height: 25px;
+}
+
+.dolor {
+
+    width: 444px;
+    font-size: 14px;
+    margin-top: 50px;
+    margin-left: 150px;
+    line-height: 20px;
+}
+
+.rhema {
+    display: inline-block;
+    vertical-align: top;
+
+}
+
+.imgtag {
+    display: inline-block;
+    margin-left: 130px;
+    margin-top: 70px;
+    margin-right: 10px;
+}
+
+.eddi {
+    margin-left: 130px;
+}
