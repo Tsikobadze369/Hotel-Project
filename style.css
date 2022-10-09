@@ -73,7 +73,6 @@ ul li {
 .container {
     display: inline-block;
     width: 1366px;
-    height: 1559px;
 }
 
 .pbox {
@@ -124,4 +123,46 @@ ul li {
 
 .eddi {
     margin-left: 130px;
+}
+.footer{
+    width: 1366px;
+    height: 304px;
+    background-color: #121212;
+}
+.hotels{
+    font-size: 24px;
+    font-family: Poppins;
+    font-weight: bold;
+    color: white;
+    margin-left: 100px;
+    padding-top: 60px;
+}
+.quality{
+    font-size: 14px;
+    width: 828px;
+    font-family: Poppins;
+    font-weight: normal;
+    color: white;
+    margin-top: 40px;
+    margin-left: 100px;
+    line-height: 25px;
+    
+}
+.icons{
+    margin-top: 60px;
+    margin-left: 100px;
+}
+.fb{
+    width: 30px;
+    height: 30px;
+    margin-right: 15px;
+}
+.twit{
+    width: 30px;
+    height: 30px;
+    margin-right: 15px;
+}
+.google{
+    width: 30px;
+    height: 30px;
 }
